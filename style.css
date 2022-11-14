@@ -1,0 +1,87 @@
+.header {
+    color: aliceblue;
+    width: 100%;
+    height: 60px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #292c38;
+}
+.header .left{
+    float: left;
+    margin-left: 40px;
+}
+.header .left img{
+float: left;
+width: 41px;
+height: 0 auto;
+}
+.header .left .titre{
+    float: left;
+    padding-top: 10px;
+    padding-left: 10px;
+    }
+.header .right {
+    float: right;
+    margin-right: 40px;
+}
+.header .right ul li{
+    list-style: none;
+    float: left;
+    margin-left: 10px;
+    text-transform: capitalize;
+}
+.header .right ul li button{
+    background-color: aqua;
+    border-radius: 12px;
+
+}
+
+.container{
+    width: 100%;
+    height: 800px;
+    background-color: #363b48;
+    text-align: center;
+    color: #fff;
+
+
+}
+.container .titre{
+padding-top: 50px;
+text-align: center;
+font-size: 60px;
+}
+.container .sous-titre{
+padding-top: 20px;
+text-align: center;
+font-size: 20px;
+}
+
+.container button{
+    margin-top: 20px;
+    margin-left: 10px;
+    padding: 10px 10px;
+    color: #fff;
+    display: inline-block;
+    background-color: aquamarine;
+}
+.container button a{
+    color: #fff;
+}
+#btn1{
+    background-color: #2c9986;
+    border: 0px;
+}
+#btn2{
+    background-color: #6d7280;
+    border: 0px;
+
+}
+.clear-both{
+    clear: both;
+}
+.container img{
+    width: 1000px;
+    height: 561px;
+    margin-top: 20px;
+
+}
